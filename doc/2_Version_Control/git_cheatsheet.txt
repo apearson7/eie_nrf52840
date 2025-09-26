@@ -1,0 +1,11 @@
+git commit - commits changes
+git branch <branch_name> - creates branch with name <branch_name>
+git checkout <branch_name> - points head at whatever is in <branch_name>
+git pull - pulls changes from shared repo onto local repo
+git push - pushes changes on local repo to main repo
+git rebase - garbage dont use
+git fetch - garbage just use pull
+git add <file_name> - recognizes file for commit
+git status - shows what files are good to push or not
+git diff - shows changes to files
+git log - shows commit history
